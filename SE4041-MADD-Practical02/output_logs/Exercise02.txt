@@ -1,0 +1,28 @@
+--- Step 1: Create a Set ---
+["Kandy", "Galle", "Malabe"]
+
+--- Step 2: Insert Values ---
+["Galle", "Jaffna", "Malabe", "Kandy"]
+4
+
+--- Step 3: Check Membership ---
+true
+false
+
+--- Step 4: Remove an Item ---
+["Jaffna", "Malabe", "Kandy"]
+
+--- Step 5: Set Operations ---
+Union: ["Amal", "Nimali", "Ruwan", "Sanduni"]
+Intersection: ["Nimali", "Ruwan"]
+Subtracting: ["Amal"]
+Symmetric Difference: ["Amal", "Sanduni"]
+
+--- Activity 2: Student Enrollment Sets ---
+Mobile Development Students: ["Dinuka", "Himsara", "Nethmi", "Sahan", "Tharushi"]
+Game Technology Students: ["Himsara", "Isuri", "Kavindu", "Sahan", "Yasiru"]
+
+1. All students: ["Dinuka", "Himsara", "Isuri", "Kavindu", "Nethmi", "Sahan", "Tharushi", "Yasiru"]
+2. Students taking both modules: ["Himsara", "Sahan"]
+3. Students taking only Mobile Development: ["Dinuka", "Nethmi", "Tharushi"]
+4. Students taking only one of the modules: ["Dinuka", "Isuri", "Kavindu", "Nethmi", "Tharushi", "Yasiru"]

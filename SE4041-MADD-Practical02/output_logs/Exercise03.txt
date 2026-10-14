@@ -1,0 +1,28 @@
+--- Step 1: Create a Dictionary ---
+["Nimali": 65, "Ruwan": 48, "Amal": 72]
+
+--- Step 2: Retrieve a Value ---
+Optional(72)
+
+--- Step 3: Safely Retrieve a Value ---
+72
+0
+
+--- Step 4: Use Optional Binding ---
+Nimali scored 65
+
+--- Step 5: Add and Update Values ---
+["Sanduni": 90, "Nimali": 65, "Amal": 75]
+
+--- Activity 3: Phone Book ---
+Initial Phone Book: [(key: "Dinuka", value: "+94-XX-000-1002"), (key: "Himsara", value: "+94-XX-000-1001"), (key: "Kavindu", value: "+94-XX-000-1004"), (key: "Tharushi", value: "+94-XX-000-1003")]
+
+1. Added Nethmi: [(key: "Dinuka", value: "+94-XX-000-1002"), (key: "Himsara", value: "+94-XX-000-1001"), (key: "Kavindu", value: "+94-XX-000-1004"), (key: "Nethmi", value: "+94-XX-000-1005"), (key: "Tharushi", value: "+94-XX-000-1003")]
+2. Updated Himsara's number: [(key: "Dinuka", value: "+94-XX-000-1002"), (key: "Himsara", value: "+94-XX-000-1999"), (key: "Kavindu", value: "+94-XX-000-1004"), (key: "Nethmi", value: "+94-XX-000-1005"), (key: "Tharushi", value: "+94-XX-000-1003")]
+3. Removed Kavindu: [(key: "Dinuka", value: "+94-XX-000-1002"), (key: "Himsara", value: "+94-XX-000-1999"), (key: "Nethmi", value: "+94-XX-000-1005"), (key: "Tharushi", value: "+94-XX-000-1003")]
+
+4. Search for existing contact ('Dinuka'):
+Dinuka's Phone Number: +94-XX-000-1002
+
+5. Search for non-existent contact ('Imesha'):
+Contact not found

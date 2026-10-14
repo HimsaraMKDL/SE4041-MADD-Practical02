@@ -1,0 +1,42 @@
+--- Part A: for-in Loops ---
+Week 1
+Week 2
+Week 3
+Week 4
+Week 5
+
+--- Loop Through an Array ---
+Amal
+Nimali
+Ruwan
+
+--- Using enumerated() ---
+0: Amal
+1: Nimali
+2: Ruwan
+
+--- Part B: while Loop ---
+Ran out in week 4
+
+--- Part C: repeat-while Loop ---
+Attempt 1
+Attempt 2
+Attempt 3
+
+--- break and continue Example ---
+72
+65
+48
+
+--- Activity 6: Filter and Terminate Loop ---
+Processing marks: [81, -1, 62, 45, 90, 77]
+Valid mark: 81
+Valid mark: 62
+Valid mark: 45
+
+--- Putting Collections and Control Flow Together ---
+Himsara: 84 - Pass
+Dinuka: 48 - Fail
+Sahan: 69 - Pass
+Tharushi: 92 - Pass
+Passed Students: ["Himsara", "Sahan", "Tharushi"]

@@ -1,0 +1,35 @@
+==================================
+STUDENT PERFORMANCE
+==================================
+Dinuka - 71 - B+
+Himsara - 82 - A
+Kavindu - 39 - F
+Nethmi - 66 - B
+Sahan - 46 - C
+Tharushi - 93 - A
+----------------------------------
+Passed Students:
+Dinuka
+Himsara
+Nethmi
+Tharushi
+----------------------------------
+Grades Awarded:
+A
+B
+B+
+C
+F
+----------------------------------
+Class Average: 66.2
+Highest Mark: 93
+Lowest Mark: 39
+----------------------------------
+Search for a Student:
+Himsara's mark is 82
+Student not found
+
+Pass/Fail Count:
+Passed: 4
+Failed: 2
+==================================

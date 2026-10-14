@@ -1,0 +1,13 @@
+--- Worked Example: if / else if / else ---
+Pass
+
+--- Activity 4: Attendance Evaluation ---
+Good attendance
+
+--- Testing with Different Attendance Values ---
+Attendance: 100% -> Excellent attendance
+Attendance: 90% -> Excellent attendance
+Attendance: 80% -> Good attendance
+Attendance: 70% -> Acceptable attendance
+Attendance: 69% -> Low attendance
+Attendance: 0% -> Low attendance

@@ -1,0 +1,19 @@
+--- Example 1: Basic switch Statement ---
+Good
+
+--- Example 2: Using Ranges in a Switch ---
+Pass
+
+--- Activity 5: Temperature Description ---
+Temperature 32°C -> Warm
+
+--- Testing with Multiple Temperatures ---
+Temperature -3°C -> Freezing
+Temperature 0°C -> Cold
+Temperature 15°C -> Cold
+Temperature 16°C -> Moderate
+Temperature 25°C -> Moderate
+Temperature 26°C -> Warm
+Temperature 35°C -> Warm
+Temperature 36°C -> Hot
+Temperature 42°C -> Hot
